@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68761" started-at="2020-01-18T04:15:03 IST" finished-at="2020-01-18T04:16:12 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68761" started-at="2020-01-18T04:15:03 IST" finished-at="2020-01-18T04:16:12 IST">
+      <class name="mobiletest.AppiumMobile">
+        <test-method status="PASS" signature="reportSetup()[pri:0, instance:mobiletest.AppiumMobile@42f93a98]" name="reportSetup" is-config="true" duration-ms="217" started-at="2020-01-18T04:15:03 IST" finished-at="2020-01-18T04:15:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportSetup -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:mobiletest.AppiumMobile@42f93a98]" name="setup" is-config="true" duration-ms="14617" started-at="2020-01-18T04:15:03 IST" finished-at="2020-01-18T04:15:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="sampleTest()[pri:0, instance:mobiletest.AppiumMobile@42f93a98]" name="sampleTest" duration-ms="14" started-at="2020-01-18T04:15:18 IST" finished-at="2020-01-18T04:15:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sampleTest -->
+        <test-method status="PASS" signature="testOne()[pri:0, instance:mobiletest.AppiumMobile@42f93a98]" name="testOne" duration-ms="51945" started-at="2020-01-18T04:15:18 IST" finished-at="2020-01-18T04:16:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testOne -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:mobiletest.AppiumMobile@42f93a98]" name="teardown" is-config="true" duration-ms="2150" started-at="2020-01-18T04:16:09 IST" finished-at="2020-01-18T04:16:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="reportTeardown()[pri:0, instance:mobiletest.AppiumMobile@42f93a98]" name="reportTeardown" is-config="true" duration-ms="1207" started-at="2020-01-18T04:16:12 IST" finished-at="2020-01-18T04:16:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportTeardown -->
+      </class> <!-- mobiletest.AppiumMobile -->
+      <class name="test.CheckoutTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.CheckoutTest@c46bcd4]" name="setup" is-config="true" duration-ms="15962" started-at="2020-01-18T04:15:18 IST" finished-at="2020-01-18T04:15:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ProceedToCart()[pri:4, instance:test.CheckoutTest@c46bcd4]" name="ProceedToCart" duration-ms="34002" started-at="2020-01-18T04:15:34 IST" finished-at="2020-01-18T04:16:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProceedToCart -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:test.CheckoutTest@c46bcd4]" name="teardown" is-config="true" duration-ms="1250" started-at="2020-01-18T04:16:08 IST" finished-at="2020-01-18T04:16:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- test.CheckoutTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
